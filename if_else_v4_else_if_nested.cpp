@@ -3,14 +3,11 @@
 using namespace std;
 
 
-
-
 int main() {
 
 	int var1 = 10;
 	int var2 = 20;
 	int var3 = 30;
-
 
 
 	if (var1 == 5) {
@@ -39,6 +36,13 @@ int main() {
 }
 
 
+
+
+/*
+
 var1 is NOT equal to 5, 7, 12, but is equal to 10.
 
 Press any key to continue . . .
+
+*/
+

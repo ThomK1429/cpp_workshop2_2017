@@ -26,7 +26,17 @@ int main() {
 }
 
 
+ 
+
+
+
+
+/*
 
 var1 is NOT equal to 20, but it is equal to 10.
 
 Press any key to continue . . .
+
+*/
+
+

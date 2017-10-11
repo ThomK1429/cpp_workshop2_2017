@@ -1,0 +1,71 @@
+
+C++ Workshop 2 - Oct. 11 & 12
+
+Welcome
+Introductions
+Learning Center Hours: Tues & Thur 11-2, Wed 11:30 to 2:30
+
+COMMENT, CODE A LITTLE - TEST A LITTLE
+
+Topics:
+	IF statement
+	
+	InFile, OutFile
+
+	Loops
+
+
+Link:
+	https://github.com/ThomK1429/cpp_workshop2_2017 
+
+
+TOPIC 1 - IF STATEMENT
+	
+	if_v1.cpp - what's wrong with this program
+	if_v2.cpp - works as intended. Simple IF statement
+	what if  -    if (!num1==10)
+	
+
+
+	- IF/ELSE STATEMENT
+
+	if_else_v1.cpp - if then else
+	if_else_v2.cpp - if then else - syntax error - use block {}
+	if_else_v3.cpp - if then else - using block
+
+
+	- IF/ELSE IF STATEMENT
+
+	if_else_v4_else_if_nested.cpp
+
+
+
+TOPIC 2 - INFILE/OUTFILE
+
+	file_io_v1.cpp - skeleton for file i/o - input file, output file
+	file_io_v2.cpp -                       - input file, cout
+	file_io_v3.cpp -                       - input file, output file
+
+
+
+TOPIC 3 - LOOPS
+
+	for_loop_v1.cpp - count up, count down, count by 2, nested loop - print stars
+
+	while_loop_v1.cpp 		- count by 5's, checks first, then do it
+	while_loop_v2_with_break.cpp	- break
+
+	do_while_v1.cpp			- do while, do it, then check
+
+
+TOPIC 4 - IF/SWITCH/BREAK
+
+	switch_v1_with_break.cpp	- if and a break
+	
+
+
+
+
+
+	
+
